@@ -16,4 +16,4 @@
 Qualquer dúvida entre em contato
 <a href="mailto:ana.gusmao.santos@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
-![](https://tenor.com/pt-BR/view/the-amazing-spiderman-the-amazing-spiderman-2-tasm-tasm-2-spider-man-gif-12313388964960111634)
+![](https://media1.tenor.com/m/Hykff4nbSxEAAAAC/spiderman.gif)
